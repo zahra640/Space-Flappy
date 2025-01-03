@@ -1,2 +1,2 @@
-# Space-jump-game
+# Space-Flappy
 space themed flappy bird spin off
