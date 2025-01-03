@@ -1,9 +1,6 @@
 #Zahra Hussain
 #Nov 10, 2021
-#Final Project
 #------ SPACE FLAPPY --------
-#GAME IDEA - - - - character is controlled with the space key - jumping up preventing the ufo from falling -  there are space aestroids/meteors and satellites flying around the air that your character has to avoid - collect coins to add to your score. 
-#add in planets in the background that pass by at random time and spots and there are white circles as stars
 
 import pygame
 import random
