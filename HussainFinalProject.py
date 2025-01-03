@@ -340,8 +340,8 @@ while not done:
       screen.blit(gameoverImg, [200, 100])
       screen.blit(playagainImg, [250, 350])
       
-      screen.blit(scoreText, [500, 10])
-      screen.blit(highscoreText, [500, 50])      
+      screen.blit(scoreText, [400, 10])
+      screen.blit(highscoreText, [400, 50])      
       
   if screen_mode == 5:
     screen.fill(WHITE)
