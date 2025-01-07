@@ -1,6 +1,4 @@
 # Space-Flappy
-#### Game Description
-Title: Space Flappy
 
 Description:
 Take control of a UFO and navigate through a dangerous field of meteors and satellites! Dodge obstacles, collect coins, and challenge yourself to achieve the highest score. Inspired by the classic Flappy Bird mechanics, this game tests your timing, precision, and focus.
